@@ -1,0 +1,8 @@
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  padding: 40px;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}

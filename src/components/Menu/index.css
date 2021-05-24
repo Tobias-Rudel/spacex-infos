@@ -1,0 +1,15 @@
+.menu {
+  display: inline-flex;
+  list-style-type: none;
+
+  font: 14px/28px D-DIN-Bold, Arial, Verdana, sans-serif;
+  font-weight: 500;
+}
+
+.menu li {
+  margin: 0 20px;
+}
+
+.menu li a:hover {
+  text-decoration: underline;
+}
