@@ -23,10 +23,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Used External Modules
 
-Besides **react** and **react-dom** which were already installed by create-react-app this project used the following additional node modules:
+Besides **react** and **react-dom** which were already installed by create-react-app this project uses the following additional node modules:
 
 - **react-router-dom** for handling the site navigation.
-- **animated-number-react** for display numbers with a counter effect.
+- **animated-number-react** for displaying numbers with a counter effect.
 - **ramda** function library for more efficient data handling in development.
 
 ## Available Scripts
