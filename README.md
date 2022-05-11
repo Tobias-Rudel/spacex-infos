@@ -4,7 +4,7 @@
 
 This is a small demo project getting data via [SpaceX api](https://github.com/r-spacex/SpaceX-API/tree/master/docs/v4) and displaying it in a web browser.
 
-It consits out of two pages. The first shows various statistics about SpaceX flights. The second displays a sortable table with detailed information about all SpaceX launches.
+It consists out of two pages. The first shows various statistics about SpaceX flights. The second displays a sortable table with detailed information about all SpaceX launches.
 
 ## Technical Details
 
